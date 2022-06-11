@@ -6,9 +6,10 @@ You can click the Preview link to take a look at your changes.
 thanks for following me and helping me in any way I'm just a beginner 
 <h1 align="center">HI, Welcome To VanzzXD vanzzXD</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=programmer+gif&tbm=isch&ved=2ahUKEwjT04aY1KX4AhUwKbcAHR3yB94Q2-cCegQIABAC&oq=programmer+gif&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIFCAAQgAQyBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB46BAgjECc6BAgAEENQ0AZYqQ9g6RFoAHAAeACAAXmIAbQEkgEDMC41mAEAoAEBwAEB&sclient=mobile-gws-wiz-img&ei=Ja2kYpOtH7DS3LUPneSf8A0&bih=628&biw=360&client=ms-android-oppo&prmd=visn&hl=id#imgrc=2JKeF76tTWe0TM">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=programmer+gif&tbm=isch&ved=2ahUKEwjT04aY1KX4AhUwKbcAHR3yB94Q2-cCegQIABAC&oq=programmer+gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanzzxd&label=Profile%20views&color=0e75b6&style=flat" alt="vanzzxd" /> </p>
+
 <p align="left"> <a href="https://twitter.com/vanzxd" target="blank"><img src="https://img.shields.io/twitter/follow/vanzxd?logo=twitter&style=for-the-badge" alt="vanzxd" /></a> </p>
 
 - 🌱 I’m currently learning **I learned coding from YouTube**
