@@ -5,8 +5,8 @@ You can click the Preview link to take a look at your changes.
 --->
 thanks for following me and helping me in any way I'm just a beginner 
 <h1 align="center">HI, Welcome To VanzzXD vanzzXD</h1>
-<h3 align="center">A passionate frontend developer from Indonesian</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=programmer+gif&tbm=isch&ved=2ahUKEwjT04aY1KX4AhUwKbcAHR3yB94Q2-cCegQIABAC&oq=programmer+gif">
+<h3 align="center">A passionate frontend developer from Indonesian</h3
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=programmer+gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanzzxd&label=Profile%20views&color=0e75b6&style=flat" alt="vanzzxd" /> </p>
 
